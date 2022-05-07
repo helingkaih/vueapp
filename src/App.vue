@@ -46,7 +46,7 @@ export default {
     },
   },
   setup() {
-    console.log('11131231')
+    console.log('1113123221')
     const store = useStore() // 获取store 实例
     // 检测 cookie 中是否有已经登录过的信息，有的话直接使用
     const cookies = useCookies().cookies
